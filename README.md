@@ -4,7 +4,8 @@
 [FB活動頁面](https://www.facebook.com/events/376522136147784/)
 
 ## 說明
-搭配p5.js寫的簡易Elementary cellular automata Demo
+搭配p5.js寫的簡易Elementary cellular automata Demo  
+教學講義可以參考eca-20180317.pdf
 
 ## 使用方式
 1. 下載index.html & sketch.js
