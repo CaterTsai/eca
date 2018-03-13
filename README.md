@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## 百元藝術教室-從0開始的細胞自動機
 
-You can use the [editor on GitHub](https://github.com/CaterTsai/eca/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+2018.03.17 (六) @120草原自治區(台北市林森北路27號)
+[FB活動頁面]([https://www.facebook.com/events/376522136147784/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 說明
+搭配p5.js寫的簡易Elementary cellular automata Demo
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CaterTsai/eca/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 使用方式
+1. 下載index.html & sketch.js
+2. 修改sketch.js中TODO的部份
+3. 點擊index.html開啟瀏覽器，Done
