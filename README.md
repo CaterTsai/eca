@@ -1,7 +1,7 @@
 ## 百元藝術教室-從0開始的細胞自動機
 
-2018.03.17 (六) @120草原自治區(台北市林森北路27號)
-[FB活動頁面]([https://www.facebook.com/events/376522136147784/)
+2018.03.17 (六) @120草原自治區(台北市林森北路27號)  
+[FB活動頁面](https://www.facebook.com/events/376522136147784/)
 
 ## 說明
 搭配p5.js寫的簡易Elementary cellular automata Demo
